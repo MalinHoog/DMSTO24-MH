@@ -8,3 +8,5 @@ frukter = ["Apelsin ", "Banan ", "Äpple "]
 x, y, z = frukter
 
 print(x + y + z)
+
+print("uppdatera sidan")
